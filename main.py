@@ -154,7 +154,8 @@ def add_group_element(G, element, n):
         # Edge cases (literally)
         if i == 0:
             src = distinguished_center
-        elif i == len(generators) - 1:
+
+        if i == len(generators) - 1:
             ran = distinguished_center
 
         # If the element is negative, backwards arrow
