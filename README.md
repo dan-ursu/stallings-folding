@@ -1,6 +1,8 @@
 # stallings-folding
 
-A shorter project of mine. Requires a bit of knowledge in group theory. This program lets you perform Stallings' folding procedure on a graph arising out of a finitely-generated subgroup of a free group, and reduce down to a set of free generators.
+Requires a bit of knowledge in group theory. This program lets you perform Stallings' folding procedure on a graph arising out of a finitely-generated subgroup of a free group, and reduce down to a set of free generators for that subgroup. Details can be found [in this section](#the-group-theory-and-graph-theory).
+
+Originally built for a friend who likes doing Stallings foldings when bored.
 
 ## Usage
 
